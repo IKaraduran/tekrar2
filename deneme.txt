@@ -3,5 +3,6 @@ Nasilsiniz
 karaduran
 idris
 esabil
+cakisma olacak
 
 

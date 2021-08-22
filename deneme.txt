@@ -4,5 +4,6 @@ karaduran
 idris
 esabil
 cakisma olacak
+deneme remote
 
 
